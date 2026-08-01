@@ -10,8 +10,8 @@ Starting from Day 0, I'm committing to writing and publishing content every sing
 - Build a visible, consistent body of work in AWS/DevOps
 
 ## Where to follow
-- Dev.to: [https://dev.to/srpalatasingh]
-- Hashnode: [https://hashnode.com/@srpalatasingh]
+- Dev.to: [https://dev.to/sr-palatasingh/series/42698]
+- Hashnode: [https://sr-palatasingh.hashnode.dev/series/aws-devops-blog]
 - LinkedIn: [https://www.linkedin.com/in/soumyaranjan-palatasingh/]
 
   
