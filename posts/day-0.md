@@ -1,5 +1,5 @@
 # Day 0 — Starting My AWS & DevOps Daily Blog
-![AWS DevOps Blog Cover](../assets/images/day-0-img.webp)
+![AWS DevOps Blog Cover](../assets/images/day-0 img.webp)
 
 I'm an AWS Certified Solutions Architect Associate working professionally in AWS and DevOps. Starting today, I'm committing to writing and publishing content every single day, documenting real problems solved, services explored, and lessons learned along the way.
 
