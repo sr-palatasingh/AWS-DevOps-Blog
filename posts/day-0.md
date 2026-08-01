@@ -7,10 +7,10 @@ I'm an AWS Certified Solutions Architect Associate working professionally in AWS
 - Create a searchable, organized reference for myself and others
 - Build a visible, consistent body of work in AWS/DevOps
 
-## Where to follow
+## Where to read & follow
 - GitHub: https://github.com/sr-palatasingh/AWS-DevOps-Blog
-- Dev.to: [https://dev.to/srpalatasingh]
-- Hashnode: [https://hashnode.com/@srpalatasingh]
+- Dev.to: [https://dev.to/sr-palatasingh/series/42698]
+- Hashnode: [https://sr-palatasingh.hashnode.dev/series/aws-devops-blog]
 - LinkedIn: [https://www.linkedin.com/in/soumyaranjan-palatasingh/]
 
 This is Day 0 — the setup and announcement. Day 1 begins tomorrow.
