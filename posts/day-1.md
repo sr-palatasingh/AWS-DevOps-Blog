@@ -1,5 +1,5 @@
 # Day 1: Understanding Cloud Computing — Service and Deployment Models Explained with a Biryani Analogy
-![AWS DevOps Blog Cover](../assets/images/day-1-img.webp)
+![AWS DevOps Blog Cover](../assets/images/day-1-img.png)
 
 Yesterday I announced I'm blogging daily on AWS & DevOps. Here's Day 1 — the fundamentals everything else builds on.
 
@@ -68,3 +68,8 @@ Yesterday I announced I'm blogging daily on AWS & DevOps. Here's Day 1 — the f
 ---
 
 **Coming up on Day 2:** Client-server architecture and virtualization — two more networking/infra fundamentals before we head into AWS.
+## Where to read & follow
+- Dev.to: [https://dev.to/sr-palatasingh/series/42698]
+- Hashnode: [https://sr-palatasingh.hashnode.dev/series/aws-devops-blog]
+- LinkedIn: [https://www.linkedin.com/in/soumyaranjan-palatasingh/]
+
